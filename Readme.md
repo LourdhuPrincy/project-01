@@ -5,12 +5,15 @@
 
 
 
-## Learnt concepts in this project
+## Concepts learnt in this project
 - selecting html elements
 - how to use pseudo elements like before, after etc
 
 It took 2 days for me to complete this project. From this project mainly I have learnt how to use pseudo elements to add somethig into html.
 
 [netlify](https://liveproject01.netlify.app/)
+
+![screen shot](./assets/pro-1.png)
+
 
     
